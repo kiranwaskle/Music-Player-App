@@ -1,6 +1,7 @@
 # Music-Player-App
 
-🎵 Project Overview: Music Player App
+🎵 Project Overview: 
+
 This project is a console-based music player application developed in Java. It allows users to create and manage music albums, add songs to these albums, and build personalized playlists. Users can interact with the playlist by playing songs, navigating between them, replaying tracks, and even deleting songs from the playlist.
 
 The app is built using fundamental Java concepts like classes, objects, ArrayLists, LinkedLists, iterators, and basic input/output operations.
