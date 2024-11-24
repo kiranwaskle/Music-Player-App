@@ -18,11 +18,15 @@ The app is built using fundamental Java concepts like classes, objects, ArrayLis
 
 
 
+
+
 🎶 Playlist Creation:
 
 ➤ Songs can be added to a playlist either by their track number or title.
 
 ➤ Playlists are dynamically created and managed using a LinkedList.
+
+
 
 
 
@@ -42,6 +46,8 @@ The app is built using fundamental Java concepts like classes, objects, ArrayLis
 
 
 
+
+
 🛠️ Interactive Menu:
 
 ➤ A menu guides users through available options, including:
@@ -53,6 +59,8 @@ The app is built using fundamental Java concepts like classes, objects, ArrayLis
 ➤ Deleting the current song.
 
 ➤ Reprinting the menu options.
+
+
 
 
 
