@@ -5,7 +5,7 @@ import java.util.LinkedList;
 
 //creating the album class
 public class Album {
-    //all the data mebers are private of the album class
+    //all the data members are private of the album class
     private String name;
     private String artist;
     private ArrayList<Song> songs;
