@@ -8,32 +8,56 @@ The app is built using fundamental Java concepts like classes, objects, ArrayLis
 📀 Features of the Music Player App
 
 📂 Album Management:
+
+
 ➤ Albums are collections of songs, each identified by a name and an artist.
+
 ➤ Users can add songs to albums.
+
 ➤ Duplicate songs are not allowed within an album.
 
 
+
 🎶 Playlist Creation:
+
 ➤ Songs can be added to a playlist either by their track number or title.
+
 ➤ Playlists are dynamically created and managed using a LinkedList.
 
 
+
+
 ▶️ Music Playback:
+
 ➤ Navigate between songs:
+
 ➤ Play the next song.
+
 ➤ Play the previous song.
+
 ➤ Replay the current song.
+
 ➤ Users can remove the current song from the playlist during playback.
 
 
+
+
 🛠️ Interactive Menu:
+
 ➤ A menu guides users through available options, including:
+
 ➤ Playing songs.
+
 ➤ Viewing all songs in the playlist.
+
 ➤ Deleting the current song.
+
 ➤ Reprinting the menu options.
 
 
+
 📋 User-Friendly Outputs:
+
 ➤ The app displays the title and duration of the song being played.
+
 ➤ Messages are shown for specific states, such as reaching the start or end of the playlist.
