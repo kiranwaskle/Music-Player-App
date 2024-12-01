@@ -3,6 +3,8 @@ import java.util.*;
 
 public class Main {
 
+     //creating the arraylist to add the new albums
+    
     private static ArrayList<Album> albums = new ArrayList<>();
 
     public static void main(String[] args) {
@@ -12,7 +14,7 @@ public class Main {
         album.addSong("TNT",4.5);
         album.addSong("Highway to hell",3.5);
         album.addSong("Thun",5.0);
-        albums.add(album);
+        albums.add(album);//in the  albums list i have to add the album 
 
         album = new Album("Album2","Eminem");
 
