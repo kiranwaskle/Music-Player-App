@@ -10,7 +10,7 @@ public class Album {
     private String artist;
     private ArrayList<Song> songs;
 
-    //initialize the data members of the album class
+    //initialize the data members of the album class with the help of the constructor 
     public Album(String name, String artist) {
         this.name = name;
         this.artist = artist;
